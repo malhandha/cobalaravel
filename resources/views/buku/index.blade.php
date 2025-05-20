@@ -2,7 +2,8 @@
 <html>
 
 <head>
-    <title>Data Buku</title>
+    <title>Data</title>
+
 </head>
 
 <body>
